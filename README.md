@@ -1,5 +1,5 @@
 # 💫 About Me:
-#Hello World !, I'am Rizky, a Full-stack Web Developer and Mobile Developer
+# Hello World !, I'am Rizky, a Full-stack Web Developer and Mobile Developer
 
 
 ## 🌐 Socials:
